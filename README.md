@@ -44,6 +44,8 @@ Los conjuntos de datos se componen de ejemplos individuales que contienen atribu
 
 ### Matriz de datos
 
+![]()
+
 Generalmente los datos vienen representados en matrices, como usualmente vemos en las planillas de cálculo. En ellas se organiza la información para diversos fines, es muy facil de entender y agrupar la información. 
 
 En el las columnas podemos encontrar los diferentes atributos y etiquetas. Graficamente representarian el eje Y. En las filas encontramos los casos, individuales. Graficamente representarian el eje X. 
