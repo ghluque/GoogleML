@@ -1,4 +1,4 @@
- Introduccion al aprendizaje automatico
+ #Introduccion al aprendizaje automatico
 
 
 El aprendizaje automatico es el proceso de entrenar un software llamada modelo para que sea util generar predicciones o contenido a partir de datos no estructurados.
