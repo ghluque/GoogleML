@@ -44,7 +44,7 @@ Los conjuntos de datos se componen de ejemplos individuales que contienen atribu
 
 ### Matriz de datos
 
-![]()
+![](https://github.com/ghluque/GoogleML/blob/main/Imagenes/MatrizDatos.png)
 
 Generalmente los datos vienen representados en matrices, como usualmente vemos en las planillas de cálculo. En ellas se organiza la información para diversos fines, es muy facil de entender y agrupar la información. 
 
